@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style
+        name="TextInputLayout.OutlinedBox"
+        parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="cornerSize">8dp</item>
+        <item name="cornerFamily">rounded</item>
+        <item name="boxStrokeErrorColor">@color/error</item>
+        <item name="errorTextColor">@color/error</item>
+        <item name="shapeAppearance">?attr/shapeAppearanceMediumComponent</item>
+    </style>
+    <style name="TextInputLayout.OutlinedBox.RoundedShape20">
+        <item name="boxCornerRadiusBottomEnd">20dp</item>
+        <item name="boxCornerRadiusBottomStart">20dp</item>
+        <item name="boxCornerRadiusTopStart">20dp</item>
+        <item name="boxCornerRadiusTopEnd">20dp</item>
+    </style>
+    <style name="Theme.ForageApp.Checkbox" parent="Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="android:textAppearance">?attr/textAppearanceBody1</item>
+    </style>
+</resources>

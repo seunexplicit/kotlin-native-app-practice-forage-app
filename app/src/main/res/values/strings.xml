@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Forage App</string>
+    <string name="app_name">Forage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forage_name">Forage Name</string>
+    <string name="forage_location">Forage Location</string>
+    <string name="in_season">Currently in season</string>
+    <string name="not_in_season">Not in season</string>
+    <string name="note">Note</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="name_required_error">Name is required</string>
+    <string name="location_required_error">Location is required</string>
+    <string name="updated_successfully">Updated Successfully</string>
+    <string name="created_successfully">Created Successfully</string>
 </resources>
